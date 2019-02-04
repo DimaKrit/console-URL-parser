@@ -111,6 +111,5 @@ if ($queryResult) {
 	echo json_encode($queryResult,JSON_PRETTY_PRINT).PHP_EOL;
 }
 
-exit(0);
 
 
